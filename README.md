@@ -1,2 +1,2 @@
 # prokom-kla-025
-Praktek Program Komputer python 2021
+Praktek Program Komputer Python 2021
